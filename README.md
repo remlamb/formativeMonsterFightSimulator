@@ -13,7 +13,7 @@ Monsters are created by the user with a race and 4 stats :
 Milestones | Planned time | Actual time 
  --- | --- | ---
 Create Monster class* | 30min | 30min
-Create Attack function | 20min | 10min
+Create Attack function | 30min | 10min
 Test phase | 30min | 30min
 In FightSimulator class create a CreateMonster function | 2h | 2h
 In FightSimulator create a Fight function** | 3h | 4h
