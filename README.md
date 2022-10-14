@@ -10,13 +10,13 @@ Monsters are created by the user with a race and 4 stats :
 
 ## Plan :
 
-milestones | planned time | actual time 
+Milestones | Planned time | Actual time 
  --- | --- | ---
-create Monster class* | 30min | 30min
-create Attack function | 20min | 10min
+Create Monster class* | 30min | 30min
+Create Attack function | 20min | 10min
 Test phase | 30min | 30min
-in FightSimulator class create a CreateMonster function | 2h | 2h
-in FightSimulator create a Fight function** | 3h | 4h
+In FightSimulator class create a CreateMonster function | 2h | 2h
+In FightSimulator create a Fight function** | 3h | 4h
 Test phase | 30min | 30min
 Menu and verified input(find a max stat / fix infinite combat if def>enemy attack) | 1h | 2h
 Add rand function to simulate dice and find how many dice we roll for each stat | 1h | 1h 
