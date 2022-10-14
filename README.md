@@ -1,6 +1,7 @@
 # formative MonsterFightSimulator SAE
 
 The code simulates a turn based combat between 2 monsters.
+
 Monsters are created by the user with a race and 4 stats :
 - Health
 - Attack
