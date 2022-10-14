@@ -15,7 +15,7 @@ milestones | planned time | actual time
 create Monster class* | 30min | 30min
 create Attack function | 20min | 10min
 Test phase | 30min | 30min
-in FightSimulator class create a CreateMonster function | 3h | 2h
+in FightSimulator class create a CreateMonster function | 2h | 2h
 in FightSimulator create a Fight function** | 3h | 4h
 Test phase | 30min | 30min
 Menu and verified input(find a max stat / fix infinite combat if def>enemy attack) | 1h | 2h
